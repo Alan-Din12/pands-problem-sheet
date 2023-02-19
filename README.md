@@ -1,5 +1,4 @@
-
-# Pands-Problem-Sheet by Alan Dineen
+ Pands-Problem-Sheet by Alan Dineen
 
 # About
 
